@@ -1,4 +1,4 @@
-# Team_Profile-Generator
+# Team-Profile-Generator
 
 ## Badges
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -30,7 +30,7 @@ Uses inquirer from the command line to answer questions about team members for y
 Any contributors should read the installation section. Created by Joseph Spann for UCSD Bootcamp using material provided by UCSD Bootcamp repo.
 
 ## Test
-Run [`npm test1] to run Jest for tests on constrcutors and methods. 
+Run [`npm test1`] to run Jest for tests on constrcutors and methods. 
 
 ## License
 [License Information Found Here](https://choosealicense.com/licenses/mit/)
